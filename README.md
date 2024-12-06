@@ -1,2 +1,2 @@
 # Data-Governance
-Repository with all my exposure and experience with Data Governance
+Repository with all my experience and exposure to Data Governance
